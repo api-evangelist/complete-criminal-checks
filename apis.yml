@@ -1,0 +1,32 @@
+aid: complete-criminal-checks
+name: Complete Criminal Checks
+description: "Provides data of offenders from all U.S. States and Pureto Rico"
+url: https://completecriminalchecks.com/Developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Security"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Security
+  - Public APIs
+apis:
+  - name: Complete Criminal Checks
+    description: "Provides data of offenders from all U.S. States and Pureto Rico"
+    humanURL: https://completecriminalchecks.com/Developers
+    baseURL: https://completecriminalchecks.com/Developers
+    tags:
+      - Security
+    properties:
+      - type: Documentation
+        url: https://completecriminalchecks.com/Developers
+common:
+  - type: Website
+    url: https://completecriminalchecks.com/Developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
