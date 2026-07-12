@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://completecriminalchecks.com/Developers
 common:
+  - type: VulnerabilityDisclosure
+    url: security/complete-criminal-checks-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/complete-criminal-checks-domain-security.yml
   - type: Website
     url: https://completecriminalchecks.com/Developers
   - type: PublicAPIsListing
